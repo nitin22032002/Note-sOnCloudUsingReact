@@ -3,7 +3,7 @@
 ### Technology
   * Node Js
   * Express Js
-  * MySql
+  * Mongo Db
   * React Js
 
 ### Description
