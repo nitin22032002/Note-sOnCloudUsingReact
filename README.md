@@ -1,4 +1,4 @@
-## Myshop.eye.com
+## iNote
 
 ### Technology
   * Node Js
@@ -7,12 +7,13 @@
   * React Js
 
 ### Description
-  * Shopping Website of Eye Glasses and Sun Glasses.
+  * Note's On Cloud Web Application.
+  * It is Use to save your note and see it from any device.
   * All the thing manage in this project 
-      * Payment Gateway
-      * Cart Management
-      * Admin Panel
-      * client View
+      * User Login and SignUp
+      * Profile Management System
+      * Handle Note's
+      * Manage Security
 
 ### Project View
   
